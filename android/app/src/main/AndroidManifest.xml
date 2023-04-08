@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.maldini_mobileapps">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="maldini_mobileapps"
         android:name="${applicationName}"
